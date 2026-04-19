@@ -1,7 +1,7 @@
 # 🧠 NanoGPT in Browser
 
 ブラウザで完全に動く nanoGPT。Transformer をフルスクラッチで TypeScript 実装。
-npx plugins add vercel/vercel-plugin
+[npx plugins add vercel/vercel-plugin](https://mini-gpt-runs-in-a-browser.vercel.app/)
 
 上記URLからアクセス可能！
 
